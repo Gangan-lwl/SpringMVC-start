@@ -1,5 +1,10 @@
-# Folder
+# !ignore
+!/src/main/java
+
+# ignore
+## Folder
 /.idea
 /target
 
-# File
+## File
+
